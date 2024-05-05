@@ -1,1 +1,1 @@
-"[{\"context\":\"automotive\",\"english\":[\"car\",\"automobile\"],\"polski\":[\"samoch?d\",\"auto\",\"w?z\"]},{\"context\":\"vessel\",\"english\":[\"boat\"],\"polski\":[\"??dka\",\"??d?\"]},{\"context\":\"vessel\",\"english\":[\"ship\"],\"polski\":[\"statek\",\"okr?t\"]}]"
+[{"context":"automotive","english":["car","automobile"],"polski":["samoch?d","auto","w?z"]},{"context":"vessel","english":["boat"],"polski":["??dka","??d?"]},{"context":"vessel","english":["ship"],"polski":["statek","okr?t"]}]
